@@ -1,5 +1,6 @@
 
 <?php
+//file uploading.
 $filename='/home/infaum-01-02/Documents/Ima/Infaum/COC/Questions/q.txt';
 
 $handle = fopen($filename, 'r') or die('Un able to open file');
